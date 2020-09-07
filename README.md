@@ -1,4 +1,4 @@
-
+[![Build Status](https://travis-ci.org/fiske-halsen/travisGettingStarted1.svg?branch=master)](https://travis-ci.org/fiske-halsen/travisGettingStarted1)
 
 Ultra simple Java Project meant for a Travis introduction
 
